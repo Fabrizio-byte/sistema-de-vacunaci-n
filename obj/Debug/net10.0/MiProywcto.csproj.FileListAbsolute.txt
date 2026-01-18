@@ -1,0 +1,14 @@
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\bin\Debug\net10.0\MiProywcto.exe
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\bin\Debug\net10.0\MiProywcto.deps.json
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\bin\Debug\net10.0\MiProywcto.runtimeconfig.json
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\bin\Debug\net10.0\MiProywcto.dll
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\bin\Debug\net10.0\MiProywcto.pdb
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\obj\Debug\net10.0\MiProywcto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\obj\Debug\net10.0\MiProywcto.AssemblyInfoInputs.cache
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\obj\Debug\net10.0\MiProywcto.AssemblyInfo.cs
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\obj\Debug\net10.0\MiProywcto.csproj.CoreCompileInputs.cache
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\obj\Debug\net10.0\MiProywcto.dll
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\obj\Debug\net10.0\refint\MiProywcto.dll
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\obj\Debug\net10.0\MiProywcto.pdb
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\obj\Debug\net10.0\MiProywcto.genruntimeconfig.cache
+C:\Users\pc\proyecto byte\HolaMundo\MiProywcto\obj\Debug\net10.0\ref\MiProywcto.dll
