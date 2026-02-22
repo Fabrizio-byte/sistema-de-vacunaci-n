@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiProywcto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd1a80090519f6511cb5fac2d995b441ecf919bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1071ed468a89b54887134b9fb8b1fc6e732f3729")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiProywcto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiProywcto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
